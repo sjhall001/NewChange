@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="change_request" label="NewChange" max_length="40" name="x_184398_newchange_newchange" type="collection"/>
+</database>
